@@ -17,12 +17,9 @@ Choose an option:
 2. Remove Background from Image
 Enter 1 or 2: 1
 Enter your name: Namnah
- _   _                          _     
-| \ | |                        | |    
-|  \| |  __ _  _ __    __ _  __| |___ 
-| . ` | / _` || '_ \  / _` |/ _` / __|
-| |\  || (_| || | | || (_| | (_| \__ \
-|_| \_| \__,_||_| |_| \__,_|\__,_|___/
+
+![image](https://github.com/user-attachments/assets/3cb4f2c5-00fa-448b-ad2b-18efb900c869)
+
 
 $ python main.py
 Choose an option:
